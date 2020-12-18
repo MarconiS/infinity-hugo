@@ -1,6 +1,11 @@
 ---
 label: Blog
 hide_body: false
-fields: []
+fields:
+- name: traits
+  type: image_gallery
+  config: {}
+  description: Estimating leaf chemistry for individual trees at scale
+  label: Traits
 pages:
 - content/Projects/test.md
