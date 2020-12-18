@@ -1,8 +1,8 @@
-baseURL = "https://www.example.com"
+baseURL = "https://aiforecology.com"
 languageCode = "en-us"
 removePathAccents = true
 theme = "infinity-hugo"
-title = "Infinity | Comming Soon Hugo Template By Themefisher"
+title = "AI For Ecology"
 [params]
 customHead = ""
 [params.about]
@@ -32,8 +32,8 @@ btnText = "Get Started"
 countdownDay = "31"
 countdownMonth = "12"
 countdownYear = "2020"
-disableCountdown = false
-enable = true
+disableCountdown = true
+enable = false
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
 title = "BRING YOUR PRODUCT TO LIGHT"
 [params.navigation]
