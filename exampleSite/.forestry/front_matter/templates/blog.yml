@@ -9,3 +9,4 @@ fields:
   label: Traits
 pages:
 - content/Projects/test.md
+- exampleSite/content/test traits.md
